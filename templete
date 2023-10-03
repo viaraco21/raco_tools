@@ -1,0 +1,158 @@
+<h1 id="id-1.SmartERPProtheusNovidades-ConheçaasnovidadesdoSmartERPProtheus!">
+    <strong>Conheça as novidades do SmartERP Protheus!</strong>
+</h1>
+<p><br /></p>
+<p> </p>
+<div class="toc-macro client-side-toc-macro  conf-macro output-block"
+    data-numberedoutline="true" data-cssliststyle="none" data-headerelements="H2,H3,H4,H5" data-excludeheaderregex=".*ndice" data-hasbody="false" data-macro-name="toc"> </div>
+<p>
+<h2 id="id-1.SmartERPProtheusNovidades-Novidades">Novidades</h2>
+<p><time datetime="2023-09-18" class="date-past">18/09/2023</time> - v1.6.45</p>
+</ul>
+</div>
+<html>
+<head>
+<title>Seu Arquivo HTML</title>
+</head>
+<body>
+<p>23-09-11_atualizacao_12.1.2210_gs_expedicao_continua_multi.ptm</p>
+<p>23-09-12_atualizacao_12.1.2210_rh_expedicao_continua_portuguese.ptm</p>
+<p>23-09-14_atualizacao_12.1.2210_gct_expedicao_continua_multi.ptm</p>
+<p>23-09-14_atualizacao_12.1.2210_pfs_expedicao_continua_multi.ptm</p>
+<p>23-09-14_atualizacao_12.1.2210_tss_expedicao_continua_multi.ptm</p>
+<p>23-09-15_atualizacao_12.1.2210_framework_expedicao_continua_multi.ptm</p>
+<p>23-09-15_atualizacao_12.1.2210_mnt_expedicao_continua_multi.ptm</p>
+<p>23-09-20_atualizacao_12.1.2210_backoffice_expedicao_continua_multi.ptm</p>
+<p>23-09-21_atualizacao_12.1.2210_taf_expedicao_continua_multi.ptm</p>
+</body>
+</html>
+</li>
+</ol>
+
+<br>
+</ul>
+    <p>Execução do upddistr contendo as correções expedidas até o dia <time datetime="2023-09-21" class="date-past">21/09/2023</time></p>				
+<br>
+			</div>
+		</div>
+	</div>
+	<div class="app-toggle w3-panel">
+		<div class="w3-card-4 w3-panel">
+			<div class="w3-panel">
+				<div class="w3-large">Console log Appserver</div>
+				
+				<!-- ... (código HTML ) ... -->
+		
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Log de Compilação</title>
+    <style>
+        /* Estilos CSS para melhorar a apresentação do log */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .warning {
+            color: red;
+            font-weight: bold;
+        }
+        .info {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Log de Compilação</h1>
+    <pre>
+        <span class="warning">*** WARNING!!!! It is recommended to use LockServer Session in this OS.</span>
+        <span class="info">*** TOTVS S/A ***</span>
+        <span class="info">*** www.totvs.com.br ***</span>
+        * AP7 - Build 7.00.210324P - Mar 12 2022 - 03:40:24 
+        * Build: 64 bits
+        * SVN Revision: 34023
+        * Build Version: 20.3.0.8
+
+        Using ini file ''
+
+        Using ini file 'appserver.ini'
+
+        [INFO ][SERVER] ###### thr: 208 - /totvs/tech/appserver/appserver.ini - was changed by any external tool: Last Write 4294967295 != 1695415969 Write != 4294967294 read!!! (reload)
+
+        <span class="warning">*** WARNING!!!! It is recommended to use LockServer Session in this OS.</span>
+
+        [CMDLINE] STARTING APPSERVER COMMAND LINE - COMPILE
+
+        [CMDLINE] Starting Apply Patch.
+
+        [WARN ][SERVER] RpoCustom Key not defined in the ini file. Using default set to /totvs/tech/appserver/custom.rpo
+        [INFO ][SERVER] [Thread 208] Start Build.
+
+        [WARN ][SERVER] VDR Stop: there isn't active HTTP server
+        Rpo with Total Users: 1 (Custom RPO)
+
+        [INFO ][SERVER] Loading map 1/5 Custom RPO: 0
+
+        [INFO ][SERVER] Loading map 2/5 Custom RPO: 0
+
+        [INFO ][SERVER] Loading map 3/5 Custom RPO: 0
+
+        [INFO ][SERVER] Loading map 4/5 Custom RPO: 0
+
+        [INFO ][SERVER] Loading map 5/5 Custom RPO: 0
+
+        [INFO ][SERVER] Loading map 1/5 Default RPO: 113095
+
+        [INFO ][SERVER] Loading map 2/5 Default RPO: 10185
+
+        [INFO ][SERVER] Loading map 3/5 Default RPO: 10185
+
+        [INFO ][SERVER] Loading map 4/5 Default RPO: 23128
+
+        [INFO ][SERVER] Loading map 5/5 Default RPO: 101867
+        deleting: ENGXFUNP.PRW...
+        deleting: MATA926.PRW...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: DSERFIS1-30862_14642074_640890.TPH2210...
+        skipping older source: ENGXFUN.PRW...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: ENGXFUNP.PRW...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: FW_RESOURCE_PKMK.PNG...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: MATA926.PRW...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: MATA926_EN.TRES...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: MATA926_ES.TRES...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: MATA926_PT-BR.TRES...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: MATA926_PT-PT.TRES...
+        RPO apply date: : 22/09/2023 20:54:47...
+        updating: MATA926_RU.TRES...
+
+        [INFO ][SERVER] Updating map 1/5 Default RPO: 113095
+
+        [INFO ][SERVER] Updating map 2/5 Default RPO: 10185
+
+        [INFO ][SERVER] Updating map 3/5 Default RPO: 468
+
+        [INFO ][SERVER] Updating map 4/5 Default RPO: 125007
+
+        [INFO ][SERVER] Updating map 5/5 Default RPO: 125007
+
+        [CMDLINE] Patch successfully applied.
+
+        [INFO ][SERVER] [Thread 208] [22/09/2023 20:54:50] Updating RPO /scripts/apo/portuguese/tttm120.rpo
+        [INFO ][SERVER] Updating map 1/5 Default RPO: 113095
+
+        [INFO ][SERVER] Updating map 2/5 Default RPO: 10185
+
+        [INFO ][SERVER] Updating map 3/5 Default RPO: 468
+
+        [INFO ][SERVER] Updating map 4/5 Default RPO: 125007
+
+        [INFO ][SERVER] Updating map 5/5 Default RPO: 125007
+
+        [INFO ][SERVER] [Thread 208] [22

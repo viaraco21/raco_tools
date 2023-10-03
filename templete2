@@ -1,0 +1,20 @@
+Novidades&lt;/h2&gt;&lt;p&gt;&lt;time datetime=&quot;2023-09-25&quot; 
+class=&quot;date-upcoming&quot;&gt;25/09/2023&lt;/time&gt; 
+- v1.6.46&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;
+Aplicação dos pacotes de correção:&lt;/p&gt;&lt;table class=&quot;wysiwyg-macro&quot; data-macro-name=&quot;expand&quot; data-macro-id=&quot;3c0caac2-87c1-4213-a6c1-7978f517cefd&quot; 
+data-macro-schema-version=&quot;1&quot; style=&quot;
+background-image: url(https://tdn.totvs.com/plugins/servlet/confluence/placeholder/macro-heading?definition=e2V4cGFuZH0&amp;amp;locale=pt_BR&amp;amp;version=2); 
+background-repeat: no-repeat;&quot; data-macro-body-type=&quot;RICH_TEXT&quot;&gt;&lt;tr&gt;&lt;td class=&quot;wysiwyg-macro-body&quot;&gt;&lt;pre&gt;&lt;span style=&quot;color: rgb(31,35,40);&quot;&gt;
+23-09-14_atualizacao_12.1.2210_gct_expedicao_continua_multi.ptm&lt;/span&gt;&lt;br style=&quot;&quot; /&gt;&lt;span style=&quot;color: rgb(31,35,40);&quot;&gt;
+23-09-14_atualizacao_12.1.2210_pfs_expedicao_continua_multi.ptm&lt;/span&gt;&lt;br style=&quot;&quot; /&gt;&lt;span style=&quot;color: rgb(31,35,40);&quot;&gt;
+23-09-14_atualizacao_12.1.2210_tss_expedicao_continua_multi.ptm&lt;/span&gt;&lt;br style=&quot;&quot; /&gt;&lt;span style=&quot;color: rgb(31,35,40);&quot;&gt;
+23-09-15_atualizacao_12.1.2210_mnt_expedicao_continua_multi.ptm&lt;/span&gt;&lt;br style=&quot;&quot; /&gt;&lt;span style=&quot;color: rgb(31,35,40);&quot;&gt;
+23-09-20_atualizacao_12.1.2210_backoffice_expedicao_continua_multi.ptm&lt;/span&gt;&lt;br style=&quot;&quot; /&gt;&lt;span style=&quot;color: rgb(31,35,40);&quot;&gt;
+23-09-21_atualizacao_12.1.2210_taf_expedicao_continua_multi.ptm&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/li&gt;&lt;li&gt;
+
+Execução do upddistr contendo as correções expedidas até o dia &lt;time datetime=&quot;2023-09-21&quot; 
+class=&quot;date-past&quot;&gt;21/09/2023&lt;/time&gt; &lt;/li&gt;&lt;li&gt;
+
+ &lt;/li&gt;&lt;li&gt;Atualização do pacote de lib do dia &lt;time datetime=&quot;2023-09-15&quot; class=&quot;date-past&quot;&gt;15/09/2023&lt;/time&gt; &lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;time datetime=&quot;2023-09-18&quot; class=&quot;date-past&quot;&gt;18/09/2023&lt;/time&gt;
+
+## templete retirado da pagina do TDN 
